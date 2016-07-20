@@ -1,0 +1,65 @@
+body {background-color: rgba(0, 0, 0, 0.9);
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	background-color: #FFFF00;
+}
+.navbar-default {
+	background-color: #FFFF00;
+    border-color:#FFFF00;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #D12D10;
+	font-size: 21px;
+}
+.navbar-default .navbar-brand {
+    color: #004D99;
+	font-size: 25px;
+}
+.entry:not(:first-of-type)
+{
+    margin-top: 10px;
+}
+header img {
+    border: 0;
+    margin-top: 10px;
+}
+.glyphicon
+{
+    font-size: 12px;
+}
+.input-group[class*="col-"] {
+    float: none;
+    padding-right: 0;
+    padding-left: 0px;
+}
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    margin-right: 200px;
+}
+small, .small {
+    font-size: 85%;
+    padding: 20px;
+}
+#listo {
+	margin-bottom: 10px;
+}
+/*footer*/
+footer .row {
+    margin-right: -15px;
+    margin-left: -15px;
+	text-align: center;
+}
+footer a {
+    color: grey;
+    text-decoration: none;
+	    padding-right: 40px;
+		padding-left: 15px;
+}

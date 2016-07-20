@@ -1,0 +1,67 @@
+
+/*body {background: #D12D10;
+}*/
+body {background-color: rgba(0, 0, 0, 0.9);
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	background-color: #FFFF00;
+}
+.navbar-default {
+	background-color: #FFFF00;
+    border-color:#FFFF00;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #D12D10;
+	font-size: 21px;
+}
+.navbar-default .navbar-brand {
+    color: #004D99;
+	font-size: 25px;
+}
+header img {
+    border: 0;
+    margin-top: 10px;
+}
+.jumbotron h1, .jumbotron .h1 {
+    font-size: 100px;
+	text-align: center;
+	color:#0D0D0D;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    text-align: center;
+	color: #F2F2F2;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #FFFF00;
+}
+.btn-primary {
+    color: #F2F2F2;
+    background-color: #CC0000;
+    border-color: #CC0000;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+	text-align: center;
+}
+small, .small {
+    font-size: 85%;
+    padding: 20px;
+}
+footer a {
+    color: grey;
+    text-decoration: none;
+	    padding-right: 40px;
+		padding-left: 15px;
+}
